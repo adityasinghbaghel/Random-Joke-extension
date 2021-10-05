@@ -1,4 +1,4 @@
 # ChromeExtension
 
-## simple chrome extension to get random jokes
-## made using dadjoke api
+## Simple chrome extension to get random jokes
+## Made using dadjoke api
